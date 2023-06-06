@@ -14,7 +14,7 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q891922" title="bombilla">
-<param ve-compare curtain label="Gauchos drinking mate"
+<param ve-compare sync label="Gauchos drinking mate"
        description="Painting by Candido Lopez"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
