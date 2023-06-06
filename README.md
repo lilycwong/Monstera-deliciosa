@@ -18,6 +18,10 @@
        description="Painting by Candido Lopez"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
+<param ve-image label="Gauchos drinking mate"
+       description="Painting by Candido Lopez"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Costa_Rica_%286091661775%29.jpg">
 
 
 ## History
