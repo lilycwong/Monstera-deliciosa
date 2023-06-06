@@ -14,7 +14,7 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="891922" title="bombilla">
-<param ve=image url="https://commons.wikimedia.org/wiki/Category:Tropical_and_subtropical_moist_broadleaf_forests#/media/File:Tortuguero_Nationalpark.jpg" label="Brazil subtropical forest" description="Photograph. Attribution. Instituion" license="public domain">
+<param ve=image url="https://upload.wikimedia.org/wikipedia/commons/3/30/Tortuguero_caribbean_coast.jpg" label="Brazil subtropical forest" description="Photograph. Attribution. Instituion" license="public domain">
 
 
 ## History
