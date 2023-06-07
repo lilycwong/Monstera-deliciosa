@@ -21,7 +21,7 @@
 <param ve-compare label="Gauchos drinking mate"
        description="Painting by Candido Lopez"
        license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Costa_Rica_%286091661775%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Costa_Rica_%286091661775%29.jpg" fit="cover">
 
 
 ## History
